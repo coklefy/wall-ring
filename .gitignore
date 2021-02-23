@@ -16,4 +16,5 @@ app/build/*
 app/build
 app/build/
 
+.idea
 gradle
