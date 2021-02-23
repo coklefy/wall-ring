@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_send"
+        android:title="SEND"
+        android:orderInCategory="1"/>
+
+    <item
+        android:id="@+id/action_ringtone"
+        android:title="Set ringtone"
+        android:orderInCategory="2"/>
+
+    <item
+        android:id="@+id/action_favorite"
+        android:title="Favourite"
+        android:orderInCategory="3"/>
+
+</menu>

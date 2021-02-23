@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "907302759048",
+    "firebase_url": "https://androidwallring.firebaseio.com",
+    "project_id": "androidwallring",
+    "storage_bucket": "androidwallring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907302759048:android:e4938991cd38f507",
+        "android_client_info": {
+          "package_name": "com.wallring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907302759048-19q61k3djppgfr8lpv4saa7cacqgf1m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wallring",
+            "certificate_hash": "3f9935b89291f66bc1be158b7f6cd9aa296eefcb"
+          }
+        },
+        {
+          "client_id": "907302759048-mu64kr9nqug02njb0jkfdb4hob9gqjj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wDHbaldr6xUvToP0NtIIB1k0vko98BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907302759048-mu64kr9nqug02njb0jkfdb4hob9gqjj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

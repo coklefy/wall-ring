@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wallring</string>
+    <string name="slogan">Welcome to the best app for new wallpapers and ringtones.</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- Here you can change the name of the app -->
+
+    <!-- Fill this string-array "list" with the names for your buttons -->
+    <string-array name="soundNames">
+        <item>Dangerzone</item>
+        <item>Airhorn</item>
+        <item>Bing Bong</item>
+    </string-array>
+
+</resources>

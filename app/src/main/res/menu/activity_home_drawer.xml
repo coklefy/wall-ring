@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_wallpaper"
+            android:icon="@drawable/ic_image_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Wallpaper" />
+
+        <item
+            android:id="@+id/nav_ringtone"
+            android:icon="@drawable/ic_music_note_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Ringtone" />
+
+        <item
+            android:id="@+id/nav_saved"
+            android:icon="@drawable/ic_image_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Saved" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Help" />
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Log out" />
+
+
+    </group>
+
+
+</menu>
